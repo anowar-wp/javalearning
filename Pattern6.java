@@ -5,7 +5,7 @@ public class Pattern6 {
         Scanner input = new Scanner(System.in);
 
         int n;
-        System.out.println("Enyter your number: ");
+        System.out.println("Enter your number: ");
         n = input.nextInt();
         /*
          * 1
